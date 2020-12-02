@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Connected",
-    "colorLabel": "Entity Type",
+    "colorLabel": "Entity Type (Orange: Patent Title, Purple: Keyword, Green: Named Entity)",
     "nodeLabel": "Entity"
   },
   "features": {
@@ -37,7 +37,8 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 14,
+      "drawLabels": true,
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
