@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Connected",
-    "colorLabel": "Entity Type",
+    "colorLabel": "Entity Type - Orange: Patent Title, Purple: Keyword, Green: Named Entity",
     "nodeLabel": "Entity"
   },
   "features": {
@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 6,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
